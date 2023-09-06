@@ -1,3 +1,7 @@
+This has been edited to get familiar with github
+
+--Samuel Gonzalez-----
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
